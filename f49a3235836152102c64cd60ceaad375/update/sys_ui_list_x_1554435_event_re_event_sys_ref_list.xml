@@ -2,18 +2,78 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1554435_event_re_event" version="2" view="sys_ref_list">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>name</element>
-            <list_id display_value="x_1554435_event_re_event" element="NULL" name="x_1554435_event_re_event" parent="NULL" relationship="NULL" sys_domain="global" view="c2858353d12302104f34ba60d8b7c189">ae28037583a152102c64cd60ceaad3ac</list_id>
+            <element>number</element>
+            <list_id display_value="x_1554435_event_re_event" element="NULL" name="x_1554435_event_re_event" parent="NULL" relationship="NULL" sys_domain="global" view="c2858353d12302104f34ba60d8b7c189">10392d4b836912102c64cd60ceaad30a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-30 15:16:55</sys_created_on>
-            <sys_id>6e28037583a152102c64cd60ceaad3ae</sys_id>
+            <sys_created_on>2024-11-03 05:34:23</sys_created_on>
+            <sys_id>18392d4b836912102c64cd60ceaad30b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-30 15:16:55</sys_updated_on>
+            <sys_updated_on>2024-11-03 05:34:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_1554435_event_re_event" element="NULL" name="x_1554435_event_re_event" parent="NULL" relationship="NULL" sys_domain="global" view="c2858353d12302104f34ba60d8b7c189">10392d4b836912102c64cd60ceaad30a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-03 05:34:23</sys_created_on>
+            <sys_id>10392d4b836912102c64cd60ceaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-03 05:34:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="x_1554435_event_re_event" element="NULL" name="x_1554435_event_re_event" parent="NULL" relationship="NULL" sys_domain="global" view="c2858353d12302104f34ba60d8b7c189">10392d4b836912102c64cd60ceaad30a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-03 05:34:23</sys_created_on>
+            <sys_id>14392d4b836912102c64cd60ceaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-03 05:34:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="x_1554435_event_re_event" element="NULL" name="x_1554435_event_re_event" parent="NULL" relationship="NULL" sys_domain="global" view="c2858353d12302104f34ba60d8b7c189">10392d4b836912102c64cd60ceaad30a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-03 05:34:23</sys_created_on>
+            <sys_id>18392d4b836912102c64cd60ceaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-03 05:34:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>seats</element>
+            <list_id display_value="x_1554435_event_re_event" element="NULL" name="x_1554435_event_re_event" parent="NULL" relationship="NULL" sys_domain="global" view="c2858353d12302104f34ba60d8b7c189">10392d4b836912102c64cd60ceaad30a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-03 05:34:23</sys_created_on>
+            <sys_id>1c392d4b836912102c64cd60ceaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-03 05:34:23</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -27,10 +87,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-30 15:16:55</sys_created_on>
+            <sys_created_on>2024-11-03 05:34:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ae28037583a152102c64cd60ceaad3ac</sys_id>
+            <sys_id>10392d4b836912102c64cd60ceaad30a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1554435_event_re_event</sys_name>
             <sys_package display_value="Event Registration" source="x_1554435_event_re">f49a3235836152102c64cd60ceaad375</sys_package>
@@ -38,7 +98,7 @@
             <sys_scope display_value="Event Registration">f49a3235836152102c64cd60ceaad375</sys_scope>
             <sys_update_name>sys_ui_list_x_1554435_event_re_event_sys_ref_list</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-30 15:16:55</sys_updated_on>
+            <sys_updated_on>2024-11-03 05:34:23</sys_updated_on>
             <sys_user/>
             <view display_value="Reference List" name="sys_ref_list">c2858353d12302104f34ba60d8b7c189</view>
             <view_name/>
