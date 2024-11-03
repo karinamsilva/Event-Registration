@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Event Register New">7aa68007832112102c64cd60ceaad382</sc_cat_item>
+        <sc_catalog display_value="Events">b394c7f283e552102c64cd60ceaad3cc</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-02 22:49:00</sys_created_on>
+        <sys_id>426cc887836112102c64cd60ceaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Events.Event Register New</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">f49a3235836152102c64cd60ceaad375</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_426cc887836112102c64cd60ceaad355</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-02 22:49:00</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Event Registration">f49a3235836152102c64cd60ceaad375</application>
+        <file_path/>
+        <instance_id>bff096c7db2e79d002d917291396192b</instance_id>
+        <instance_name>dev219571</instance_name>
+        <name>sc_cat_item_catalog_426cc887836112102c64cd60ceaad355</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Event Register New">7aa68007832112102c64cd60ceaad382</sc_cat_item><sc_catalog display_value="Events">b394c7f283e552102c64cd60ceaad3cc</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-02 22:49:00</sys_created_on><sys_id>426cc887836112102c64cd60ceaad355</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Events.Event Register New</sys_name><sys_package/><sys_policy/><sys_scope display_value="Event Registration">f49a3235836152102c64cd60ceaad375</sys_scope><sys_update_name>sc_cat_item_catalog_426cc887836112102c64cd60ceaad355</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-02 22:49:00</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1412144796</payload_hash>
+        <record_name>Events.Event Register New</record_name>
+        <reverted_from/>
+        <source>8c7c0c87836112102c64cd60ceaad31c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-02 22:49:08</sys_created_on>
+        <sys_id>507c0c87836112102c64cd60ceaad358</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192ef1169d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-02 22:49:08</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>547c0c8797611210b2978c23224da557</update_guid>
+        <update_guid_history>547c0c8797611210b2978c23224da557:-1412144796,587c0c87ec611210aa6f1d6f4d4e5844:178941507</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Events.Event Register New">ad84584383a112102c64cd60ceaad383</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-02 23:24:28</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>05a7c5080e5f4f3b8a43750f0225af41</sys_id>
+        <sys_metadata>426cc887836112102c64cd60ceaad355</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Events.Event Register New</sys_name>
+        <sys_package/>
+        <sys_parent display_value="">7aa68007832112102c64cd60ceaad382</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">f49a3235836152102c64cd60ceaad375</sys_scope>
+        <sys_scope_delete display_value="">0d6026aabfdf459c8e06c5f5db851c04</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_426cc887836112102c64cd60ceaad355</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_426cc887836112102c64cd60ceaad355">507c0c87836112102c64cd60ceaad358</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-02 23:24:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
